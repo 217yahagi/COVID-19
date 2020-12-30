@@ -1,0 +1,12 @@
+name: app1
+title: app1
+username:
+account: yuichiapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2429643
+bundleId: 3991497
+url: https://yuichiapps.shinyapps.io/app1/
+when: 1608026708.51803
+asMultiple: FALSE
+asStatic: FALSE

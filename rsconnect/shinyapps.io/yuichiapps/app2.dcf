@@ -1,0 +1,13 @@
+name: app2
+title: app2
+username:
+account: yuichiapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2386535
+bundleId: 3487293
+url: https://yuichiapps.shinyapps.io/app2/
+when: 1596811973.24671
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|prefectures_all.csv|prefectures_all.xlsx|ran_app2.R|Rplot.png|Rplot02.png|Time_series.R|wite_html.R|app|image

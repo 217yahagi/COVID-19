@@ -1,0 +1,13 @@
+name: covid19
+title: covid19
+username:
+account: yuichiapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2650059
+bundleId: 3991462
+url: https://yuichiapps.shinyapps.io/covid19/
+when: 1608026229.39779
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|make_and_seve_graph.R|prefectures_all.csv|prefectures_all.xlsx|prefectures_all_0803.csv|prefectures_all_1022.csv|ran_app2.R|Rplot.png|Rplot02.png|Time_series.R|wite_html.R|app2|image
